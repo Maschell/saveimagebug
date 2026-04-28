@@ -1,0 +1,3 @@
+FROM devkitpro/devkitppc:20260202
+
+WORKDIR project

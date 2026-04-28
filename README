@@ -1,0 +1,2 @@
+Works with  `docker run -it --rm -v ${PWD}:/project devkitpro/devkitppc:20260202  make -C /project`
+It's broken with  `docker run -it --rm -v ${PWD}:/project devkitpro/devkitppc:20260203  make -C /project` or newer versions
